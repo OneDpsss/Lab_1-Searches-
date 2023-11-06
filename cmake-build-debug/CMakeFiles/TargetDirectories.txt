@@ -1,0 +1,3 @@
+/Users/valerashavlaygin/CLionProjects/volkov/cmake-build-debug/CMakeFiles/volkov.dir
+/Users/valerashavlaygin/CLionProjects/volkov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/valerashavlaygin/CLionProjects/volkov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
